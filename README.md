@@ -17,3 +17,7 @@ $ block init NONE/[YOUR BLOCKID HERE] --template=https://github.com/DurettiHirpa
 ```
 
 Once you've created your local block, feel free to remix and modify to your heart's content. Buena suerte 🍀
+
+Note: You'll upload your Mapbox token as a custom property. It will not be persisted:
+
+<img width="293" alt="Screenshot 2025-05-28 at 3 55 54 PM" src="https://github.com/user-attachments/assets/1ed5e6aa-52a2-44ca-9e41-e909069920a7" />
