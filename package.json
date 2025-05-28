@@ -1,0 +1,18 @@
+{
+    "scripts": {
+        "lint": "ESLINT_USE_FLAT_CONFIG=false eslint frontend"
+    },
+    "dependencies": {
+        "@airtable/blocks": "interface-alpha",
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0",
+        "mapbox-gl": "^3.11.1",
+         "react-map-gl": "^8.0.4"
+    },
+    "devDependencies": {
+        "eslint": "^9.5.0",
+        "eslint-plugin-react": "^7.34.2",
+        "eslint-plugin-react-hooks": "^5.2.0"
+    },
+    "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
